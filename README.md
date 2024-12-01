@@ -1,6 +1,6 @@
 # Portfolio
-<embed src="https://votre-utilisateur.github.io/votre-projet/assets/mon-fichier.pdf" type="application/pdf">
-<iframe src="https://votre-utilisateur.github.io/votre-projet/assets/mon-fichier.pdf" width="100%" height="600px">
+
+<iframe src="https://Sauterelle57.github.io/Portfolio/Portfolio_Marie_Giacomel.pdf">
     Votre navigateur ne prend pas en charge l'affichage des fichiers PDF. 
-    <a href="https://votre-utilisateur.github.io/votre-projet/assets/mon-fichier.pdf" target="_blank">Download</a>.
+    <a href="https://Sauterelle57.github.io/Portfolio/Portfolio_Marie_Giacomel.pdf" target="_blank">Télécharger le PDF</a>.
 </iframe>
