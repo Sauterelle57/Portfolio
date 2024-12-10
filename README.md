@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Portfolio_png.png" />
+    <img src="Portfolio.png" />
 </p>
 
-# <p align="center"><a href="https://Sauterelle57.github.io/Portfolio/Portfolio_Marie_Giacomel.pdf" target="_blank">Download</a></p>
+# <p align="center"><a href="https://Sauterelle57.github.io/Portfolio/Portfolio.pdf" target="_blank">Download</a></p>
